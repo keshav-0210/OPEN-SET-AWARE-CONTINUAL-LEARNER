@@ -2,6 +2,11 @@
 
 This repository contains research papers and code related to Open Set Aware Continual Learning.
 
+## LATEX DOC LINK
+```
+https://www.overleaf.com/project/69512af8be7fcea35481fc0d
+```
+
 ## Repository Structure
 ```
 OPEN SET-AWARE-CONTINUAL-LEARNER/
