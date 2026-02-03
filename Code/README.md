@@ -4,7 +4,7 @@ This folder contains code implementations for experiments related to Open Set Aw
 ## Folder Structure 
 ```
 Code/
-├── datasets/ # Dataset loaders and preprocessing
+├── dataloader/ # Dataset loaders and preprocessing
 ├── models/ # Model architectures
 ├── training/ # Training scripts
 ├── evaluation/ # Evaluation metrics and scripts
