@@ -6,9 +6,7 @@ This folder contains the Jupyter notebooks used during the development of the op
 
 ### 1. `cifar-10-open-set-learner.ipynb`  
 **(Main and current reference notebook)**
-```
 This is the **primary notebook** and the one to focus on.
-```
 
 - Uses **only the CIFAR-10 dataset**.
 - Implements the **proper open-world / open-set continual learning setup** that is aligned with the **pseudo-algorithm we have written**.
